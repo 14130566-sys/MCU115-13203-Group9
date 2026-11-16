@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Hw7" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Force light theme window background to prevent dark mode rendering issues -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
